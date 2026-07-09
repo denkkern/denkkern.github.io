@@ -1,11 +1,10 @@
+# Root config - GitHub Pages will build from docs/ folder
+# See docs/_config.yml for the actual site configuration
+#
 # Site settings
 title: DenkKern
-subtitle: Decision Intelligence Platform
 email: hello@denkern.com
-description: >-
-  DenkKern is a Decision Intelligence Platform that helps organizations make better operational decisions
-  by combining fragmented information, evaluating possible actions, explaining trade-offs,
-  and continuously learning from outcomes. The intelligence layer for enterprise decisions.
+description: Decision Intelligence Platform
 url: "https://denkern.com"
 baseurl: ""
 repository: "denkern/denkern.github.io"
