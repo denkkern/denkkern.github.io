@@ -24,7 +24,7 @@ Domain specialists to help us understand decision challenges and validate our ap
 
 Please fill out the form below and we'll reach out within one business day.
 
-<form name="contact" method="POST" data-netlify="true">
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
   <fieldset style="border: 1px solid rgba(88, 101, 242, 0.3); padding: 1.5rem; border-radius: 6px; margin-bottom: 2rem;">
     
     <div style="margin-bottom: 1rem;">
@@ -47,9 +47,9 @@ Please fill out the form below and we'll reach out within one business day.
       <select name="industry" id="industry" style="width: 100%; padding: 0.75rem; border: 1px solid rgba(88, 101, 242, 0.3); border-radius: 4px; background: rgba(0,0,0,0.3); color: rgba(255,255,255,0.9);">
         <option value="">Select one...</option>
         <option value="manufacturing">Manufacturing</option>
-        <option value="supply-chain">Supply Chain & Logistics</option>
+        <option value="supply-chain">Supply Chain &amp; Logistics</option>
         <option value="healthcare">Healthcare Operations</option>
-        <option value="energy">Energy & Infrastructure</option>
+        <option value="energy">Energy &amp; Infrastructure</option>
         <option value="procurement">Procurement</option>
         <option value="other">Other</option>
       </select>
