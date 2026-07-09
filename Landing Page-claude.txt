@@ -1,0 +1,520 @@
+You are a professional designer ,senior Product Marketing, UX Writing, SaaS Positioning and B2B Enterprise copywriting expert.
+
+Your task is to create the COMPLETE landing page for our startup.
+
+Do NOT write generic startup copy.
+
+Write like the landing pages of:
+
+• Stripe
+• Linear
+• Notion
+• Palantir
+• Vanta
+• Scale AI
+
+The page should feel modern, premium, enterprise-ready and trustworthy.
+
+========================================================
+
+ABOUT THE COMPANY
+
+Company:
+DenkKern
+
+Category:
+Decision Intelligence Platform
+
+Mission:
+
+Help organizations make better operational decisions by combining fragmented information, evaluating possible actions, explaining trade-offs, and continuously learning from outcomes.
+
+We do NOT replace decision makers.
+
+Humans always make the final decision.
+
+AI augments human judgment.
+
+========================================================
+
+THE PROBLEM
+
+Today's organizations already have:
+
+ERP
+
+MES
+
+CRM
+
+SCM
+
+BI
+
+Dashboards
+
+AI assistants
+
+Alerts
+
+Emails
+
+Excel
+
+Meetings
+
+Yet important operational decisions remain slow, fragmented and inconsistent.
+
+When disruptions happen:
+
+everyone has data
+
+nobody agrees
+
+every team recommends something different
+
+organizations repeat the same discussions
+
+lessons are forgotten
+
+decision quality depends on whoever is in the room.
+
+========================================================
+
+OUR SOLUTION
+
+DenkKern is a Decision Intelligence Platform.
+
+It combines:
+
+Internal enterprise data
+
+External signals
+
+Operational context
+
+Historical decisions
+
+Business rules
+
+Human expertise
+
+Then it:
+
+understands the situation
+
+compares multiple options
+
+estimates impact
+
+explains reasoning
+
+recommends actions
+
+tracks outcomes
+
+learns over time.
+
+========================================================
+
+WE ARE NOT
+
+Not another dashboard.
+
+Not another chatbot.
+
+Not another BI tool.
+
+Not workflow automation.
+
+Not an ERP replacement.
+
+Not an LLM wrapper.
+
+========================================================
+
+WE ARE
+
+The intelligence layer for enterprise decisions.
+
+========================================================
+
+TARGET INDUSTRIES
+
+Manufacturing
+
+Supply Chain
+
+Operations
+
+Logistics
+
+Procurement
+
+Healthcare Operations
+
+Industrial AI
+
+Energy
+
+Infrastructure
+
+Large enterprises
+
+========================================================
+
+CORE MESSAGE
+
+Organizations don't have a data problem.
+
+They have a decision problem.
+
+========================================================
+
+KEY DIFFERENTIATORS
+
+Decision Intelligence
+
+Context-aware AI
+
+Transparent reasoning
+
+Scenario comparison
+
+Human-in-the-loop
+
+Continuous organizational learning
+
+Outcome feedback loops
+
+========================================================
+
+TONE
+
+Confident.
+
+Calm.
+
+Enterprise.
+
+Minimal.
+
+Never hype.
+
+Never use buzzwords.
+
+Avoid:
+
+Revolutionary
+
+Cutting edge
+
+Game changer
+
+Disruptive
+
+Best ever
+
+World class
+
+========================================================
+
+STYLE
+
+Short paragraphs.
+
+Strong headlines.
+
+Readable.
+
+Minimal text.
+
+Excellent visual hierarchy.
+
+Every section should have:
+
+Headline
+
+Subheadline
+
+Body copy
+
+Suggested visual
+
+CTA if needed
+
+========================================================
+
+CREATE THE FOLLOWING SECTIONS
+
+1.
+Navigation
+
+Logo
+
+Product
+
+Solutions
+
+Technology
+
+Industries
+
+About
+
+Contact
+
+Book Demo
+
+----------------------------------------------------
+
+2.
+Hero
+
+Powerful headline
+
+Supporting copy
+
+Primary CTA
+
+Secondary CTA
+
+Suggested hero illustration
+
+----------------------------------------------------
+
+3.
+The Problem
+
+Explain why organizations struggle making decisions.
+
+----------------------------------------------------
+
+4.
+How DenkKern Works
+
+Simple 4-step flow.
+
+Combine Context
+
+Compare Options
+
+Estimate Impact
+
+Recommend Action
+
+----------------------------------------------------
+
+5.
+Platform Overview
+
+Describe the platform.
+
+Suggested UI mockup.
+
+----------------------------------------------------
+
+6.
+Example Decision
+
+Alternative Supplier
+
+Confidence
+
+Business Impact
+
+Operational Risk
+
+Recovery Time
+
+Transparent reasoning
+
+----------------------------------------------------
+
+7.
+Core Capabilities
+
+Decision Intelligence
+
+Context Engine
+
+Scenario Analysis
+
+Learning Engine
+
+Explainability
+
+Human Approval
+
+----------------------------------------------------
+
+8.
+Industries
+
+Manufacturing
+
+Healthcare
+
+Supply Chain
+
+Infrastructure
+
+----------------------------------------------------
+
+9.
+Why DenkKern
+
+Comparison table:
+
+ERP
+
+BI
+
+Dashboards
+
+LLMs
+
+Workflow Automation
+
+vs
+
+DenkKern
+
+----------------------------------------------------
+
+10.
+Why Now
+
+Increasing complexity
+
+More disruptions
+
+Explosion of data
+
+AI maturity
+
+----------------------------------------------------
+
+11.
+Security & Trust
+
+Enterprise architecture
+
+Human approval
+
+Audit trail
+
+Role-based access
+
+Privacy
+
+----------------------------------------------------
+
+12.
+Vision
+
+Every important decision deserves intelligence.
+
+Combine signals.
+
+Evaluate options.
+
+Learn from every decision.
+
+----------------------------------------------------
+
+13.
+Call To Action
+
+Help us build the future of Decision Intelligence.
+
+Seeking:
+
+Pilot Customers
+
+Design Partners
+
+Industry Experts
+
+----------------------------------------------------
+
+14.
+Footer
+
+Company
+
+Contact
+
+LinkedIn
+
+Privacy
+
+========================================================
+
+ADDITIONAL REQUIREMENTS
+
+After the landing page, generate:
+
+1.
+Complete Information Architecture (IA)
+
+2.
+Wireframe description for every section
+
+3.
+UI suggestions
+
+4.
+Animations
+
+5.
+Micro-interactions
+
+6.
+Color recommendations
+
+7.
+Typography
+
+8.
+Icon style
+
+9.
+Illustration style
+
+10.
+Responsive mobile layout
+
+11.
+SEO titles
+
+12.
+Meta descriptions
+
+13.
+Keywords
+
+14.
+Structured FAQ
+
+15.
+Demo booking flow
+
+16.
+Contact page
+
+17.
+About page
+
+18.
+Product page
+
+19.
+Technology page
+
+20.
+Design system recommendations
+
+========================================================
+
+The output should be production-ready and detailed enough that a designer and frontend engineer can build the website directly from it.

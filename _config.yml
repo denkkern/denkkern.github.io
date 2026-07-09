@@ -3,11 +3,12 @@ title: DenkKern
 subtitle: Decision Intelligence Platform
 email: hello@denkern.com
 description: >-
-  Help organizations make better operational decisions by combining fragmented information,
-  evaluating possible actions, explaining trade-offs, and continuously learning from outcomes.
-url: "https://yourusername.github.io"
-baseurl: "/denkern"
-repository: "yourusername/denkern"
+  DenkKern is a Decision Intelligence Platform that helps organizations make better operational decisions
+  by combining fragmented information, evaluating possible actions, explaining trade-offs,
+  and continuously learning from outcomes. The intelligence layer for enterprise decisions.
+url: "https://denkern.com"
+baseurl: ""
+repository: "denkern/denkern.github.io"
 
 # Theme
 remote_theme: mmistakes/minimal-mistakes@4.26.2
