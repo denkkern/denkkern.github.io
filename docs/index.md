@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 permalink: /
 author_profile: false
 title: "DenkKern – Decision Intelligence Platform"
