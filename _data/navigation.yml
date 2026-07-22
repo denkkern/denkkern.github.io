@@ -12,3 +12,10 @@ main:
     url: /contact/
   - title: "Book Demo"
     url: /demo/
+
+# footer links
+footer:
+  - title: "Impressum"
+    url: /impressum/
+  - title: "Site Notice"
+    url: /impressum-en/
