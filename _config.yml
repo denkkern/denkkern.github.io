@@ -16,7 +16,7 @@ title_separator          : "-"
 subtitle                 : "Decision Intelligence Platform"
 name                     : &name "DenkKern Team" # &name is a YAML anchor which can be *referenced later
 description              : &description "DenkKern is a Decision Intelligence Platform that helps organizations make better operational decisions by combining fragmented information, evaluating possible actions, explaining trade-offs, and continuously learning from outcomes."
-url                      : https://denkern.com # the base hostname & protocol for your site e.g. "https://denkern.com"
+url                      : https://denkkern.ai # the base hostname & protocol for your site e.g. "https://denkern.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "denkern/denkern.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -90,9 +90,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : # set your GA4 measurement ID (G-XXXXXXX) and provider: "google-gtag" to enable
     anonymize_ip         : true
 
 
@@ -102,11 +102,11 @@ author:
   avatar           : "/assets/images/logo.svg"
   bio              : "Decision Intelligence Platform"
   location         : ""
-  email            : "hello@denkern.com"
+  email            : "hello@denkkern.ai"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/company/denkern"
+      url: "https://linkedin.com/company/denkkern-ai"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/denkern"
@@ -117,10 +117,14 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/company/denkern"
+      url: "https://linkedin.com/company/denkkern-ai"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/denkern"
+    - label: "Impressum"
+      url: "/impressum/"
+    - label: "Site Notice"
+      url: "/impressum-en/"
   since: "2024"
 
 
